@@ -7,7 +7,7 @@ The official [Scoop](https://scoop.sh/) bucket for [Qv2ray](https://qv2ray.net/)
 ## Usage
 
 ```powershell
-scoop bucket add mochi https://hub.fastgit.org/Qv2ray/mochi
+scoop bucket add mochi [https://github.com/panduola5566yy/mochi]
 # Do not forget to prefix with the bucket name!
 scoop install mochi/qv2ray mochi/v2ray
 ```
